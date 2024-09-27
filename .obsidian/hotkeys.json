@@ -1,0 +1,11 @@
+{
+  "obsidian-day-planner:show-weekly-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "launchOnStartup": true,
+  "hideOnLaunch": true,
+  "runInBackground": true,
+  "hideTaskbarIcon": false,
+  "createTrayIcon": true,
+  "trayIconImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEhSURBVDiNzZMhT0JhGIWfi7NYmAZpbEQoRrWR0EijWAz+CBvJZJDNZtFkoZucv0CncziqGdjY3GTTyWPgveoul+AsPtsJ9/3Oe77wnZuQg1oA9oA1YBl4A06TJPnIegs5y3XgDrgA1oFV4AR4VHcXBqgVtQvcABsxfgkBVIErtatWsrc21InfPKsttRpqxSxlojYACmoJGANN4BZoA9uhh1D63Q5PExirJdSaOlXP1aK6rw6cZxBnxfBO1VoakLKp9nKWU3rhSanNvcJv+T8BMitOHzgGhjneYZz1w2saMAK2gEvgGigzK1IHeA91YlYOz2XsjGbX/6FIXxhVzjzbYegn81XOBNXV+zAfhVSf1J2sP1kQsgQcACsxegXO8n7nT7/Aayyyi8s6AAAAAElFTkSuQmCC",
+  "trayIconTooltip": "{{vault}} | Obsidian",
+  "toggleWindowFocusHotkey": "",
+  "quickNoteDateFormat": "YYYY-MM-DD",
+  "quickNoteHotkey": "CmdOrCtrl+Shift+Q"
+}

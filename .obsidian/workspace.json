@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "1895a719a1ab01b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f033be91bcb800ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a9121abb607052c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d7a14fcb429b6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6dcef32be54e3a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea115ea5e8700ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db843d5afd2d3030",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1f2c2afd5463ba5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba0ff0c9b064f591",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c43e3f8c7e0960c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce2d5b17dd83b81c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddf35306f37500b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4abe3d20121b912d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9510756ed477bca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdebf9eb5dd95812",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 698.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "5a9121abb607052c",
+  "lastOpenFiles": [
+    "Ultimate Go/Design Guidelines/Integrity.md",
+    "Ultimate Go/Design Guidelines/Correctness vs. Performance.md",
+    "Ultimate Go/Data Structures/Arrays.md",
+    "Ultimate Go/Memory & Data Semantics/Pointers.md",
+    "Ultimate Go/Design Guidelines/Productivity vs. Performance.md",
+    "Ultimate Go/Design Guidelines/Reading before writing.md",
+    "Ultimate Go/Data Structures/Slices.md",
+    "Ultimate Go/Memory & Data Semantics/Constants.md",
+    "Ultimate Go/Memory & Data Semantics/Variables.md",
+    "Ultimate Go/Memory & Data Semantics/Struct Types.md",
+    "Ultimate Go/Design Guidelines/Readability.md",
+    "Ultimate Go/Design Guidelines/Simplicity.md",
+    "2024-09-25.md",
+    "2024-09-26.md",
+    "Untitled.canvas",
+    "2024-09-06.md",
+    "Ultimate Go/Garbage Collection/Go GC features.md",
+    "Ultimate Go/Data Structures",
+    "Ultimate Go/Garbage Collection",
+    "Pasted image 20240708095601.png",
+    "Ultimate Go/Memory & Data Semantics",
+    "Ultimate Go/Design Guidelines/Code Reviews.md",
+    "Ultimate Go/Design Guidelines/Untitled",
+    "Ultimate Go/Design Guidelines",
+    "Welcome.md",
+    "().md",
+    "mental model.md",
+    "Ultimate Go",
+    "2024-06-03.md",
+    "2024-06-04.md",
+    "Home.md",
+    "2024-06-06.md",
+    "create a link.md"
+  ]
+}

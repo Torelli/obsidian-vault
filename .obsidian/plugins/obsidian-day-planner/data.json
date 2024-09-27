@@ -1,0 +1,50 @@
+{
+  "snapStepMinutes": 10,
+  "progressIndicator": "bar",
+  "showTaskNotification": true,
+  "zoomLevel": 2,
+  "timelineIcon": "sheets-in-box",
+  "endLabel": "All done",
+  "startHour": 6,
+  "timelineDateFormat": "YYYY-MM-DD",
+  "centerNeedle": false,
+  "plannerHeading": "Day planner",
+  "plannerHeadingLevel": 1,
+  "timelineColored": false,
+  "timelineStartColor": "#006466",
+  "timelineEndColor": "#4d194d",
+  "timestampFormat": "HH:mm",
+  "hourFormat": "H",
+  "dataviewSource": "",
+  "extendDurationUntilNext": false,
+  "defaultDurationMinutes": 30,
+  "showTimestampInTaskBlock": true,
+  "showUncheduledTasks": true,
+  "showUnscheduledNestedTasks": true,
+  "showNow": false,
+  "showNext": true,
+  "pluginVersion": "0.20.4",
+  "showCompletedTasks": true,
+  "showSubtasksInTaskBlocks": true,
+  "icals": [
+    {
+      "name": "Outlook",
+      "url": "https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/fedbf7c2-883f-469d-9158-22fa1fd09458/cid-39E79C6BA762438A/calendar.ics",
+      "color": "#2b8deb"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://calendar.google.com/calendar/ical/zapushd%40gmail.com/private-822f16d7ddff12acd27abc449fa41545/basic.ics",
+      "color": "#ff4747"
+    },
+    {
+      "name": "Holidays",
+      "url": "https://calendar.google.com/calendar/ical/pt.brazilian%23holiday%40group.v.calendar.google.com/public/basic.ics",
+      "color": "#3aee76"
+    }
+  ],
+  "colorOverrides": [],
+  "editMode": "simple",
+  "copyOnDrag": false,
+  "releaseNotes": true
+}
