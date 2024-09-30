@@ -28,7 +28,7 @@ for i := range fruits {
 }
 ```
 
-**General guideline:** When we're working with the built-in types (numeric, string or bool) use **value semantics** to move that data around the program (possible exception is to represent null in a struct).
+**General guideline:** When we're working with the built-in types (numeric, string or bool) use [[Pointers#Pass by Value (Value Semantics)]] to move that data around the program (possible exception is to represent null in a struct).
 
 ## Range mechanics
 
